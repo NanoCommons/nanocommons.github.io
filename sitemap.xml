@@ -24,4 +24,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+    <url>
+      <loc>https://nanocommons.github.io/user-handbook/training-courses/2020-NSC-day/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+    <url>
+      <loc>https://nanocommons.github.io/user-handbook/training-courses/NanoCommons-training-semantic-web/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
 </urlset>
