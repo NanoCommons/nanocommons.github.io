@@ -6,4 +6,7 @@
    <sitemap>
       <loc>https://nanocommons.github.io/sitemap.xml</loc>
    </sitemap>
+   <sitemap>
+      <loc>https://nanocommons.github.io/erm-database/sitemap.xml</loc>
+   </sitemap>
 </sitemapindex>
